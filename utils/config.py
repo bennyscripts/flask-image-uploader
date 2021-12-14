@@ -1,0 +1,4 @@
+class Config:
+    UPLOAD_KEY = "UPLOAD_KEY"
+    MAIN_DOMAIN = "MAIN_DOMAIN"
+    TWITTER_CARDS = True
