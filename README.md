@@ -8,7 +8,6 @@ A basic image uploader created in Python using Flask.
 
 ### Setup
 - Install python if you havent already.
-- Create a virtual environment.
-
-### Start
-- run start.sh.
+- Open `utils/config.py` and edit the settings.
+- Create a virtual environment called env.
+- Run `start.sh`.
